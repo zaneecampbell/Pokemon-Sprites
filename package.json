@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-site-v3",
+  "name": "pokemon-gifs",
   "version": "1.0.0",
-  "homepage": "https://zaneecampbell.github.io/weather-final/",
+  "homepage": "https://zaneecampbell.github.io/pokemon-gifs/",
   "engines": {
     "node": "8.11.1",
     "npm": "5.6.0",
@@ -36,12 +36,11 @@
     "gh-pages": "^2.0.1",
     "node-sass": "4.5.3",
     "normalize.css": "7.0.0",
-    "react": "16.3.0",
-    "react-dom": "16.3.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "react-particles-js": "^2.4.0",
     "sass-loader": "6.0.6",
     "style-loader": "0.18.2",
-    "victory": "^31.0.1",
     "webpack": "3.1.0"
   },
   "devDependencies": {
@@ -49,5 +48,10 @@
     "dotenv": "4.0.0",
     "react-test-renderer": "15.6.1",
     "webpack-dev-server": "2.5.1"
+  },
+  "description": "RECREATION OF WEATHER-APP2 originally built with an express backend when it was hosted on heroku but is now hosted on github pages.",
+  "repository": {
+    "type": "git",
+    "url": "pokemon-gifs"
   }
 }
