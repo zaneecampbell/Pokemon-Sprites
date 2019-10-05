@@ -11,7 +11,7 @@ const LandingPage = () => {
 
   const getGifs = () => {
     const loadGifs = [];
-    for (let i = 1; i <= 386; i++) {
+    for (let i = 1; i <= 493; i++) {
       if (i < 10) {
         loadGifs.push(`images/00${i}.gif`);
       } else if (i < 100) {
